@@ -84,64 +84,42 @@ HUSK å plugge USB-pluggen ut og inn igjen før du sender første modellen!
 
 Makerspacet har et lite utvalg materialer som er velegnet for laserkutting og gravering. (ca. mål, priser er inludert mva.)
 
-| --------------------- |:-------------:| -------:|
-| Bjørkefiner 3mm       | 600x900       | 75,-    |
-| Bjørkefiner 4mm       | 600x900       | 95,-    |
-| MDF-plate, 3mm        | 600x900       | 60,-    |
-| MDF-plate, sort, 3mm  | 600x900       | 90,-    |
-| Plexiglass, klar, 2mm | 600x900       | 210,-   |
-| Plexiglass, klar, 4mm | 600x900       | 265,-   |
-| Plexiglass, klar, 6mm | 600x900       | 535,-   |
-| Plexiglass, gul, 3mm  | 600x900       | 375,-   |
+| Material              | Størrelse | Pris  |
+|-----------------------|-----------|-------|
+| Bjørkefiner 3mm       | 600x900   | 75,-  |
+| Bjørkefiner 4mm       | 600x900   | 95,-  |
+| MDF-plate, 3mm        | 600x900   | 60,-  |
+| MDF-plate, 3mm, sort  | 600x900   | 90,-  |
+| Plexiglass, klar, 2mm | 600x900   | 210,- |
+| Plexiglass, klar, 4mm | 600x900   | 265,- |
+| Plexiglass, klar, 6mm | 600x900   | 535,- |
+| Plexiglass, klar, 3mm | 600x900   | 375,- |
 
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
-
-Betales via 
+**Betales via** 
 VippsGo: 538363 Marinehomen Makerspace Drift -> Laserkutter
 
 ## Andre aktuelle materialer.
-Material
-Kan kuttes
-Kan graveres
-Papir
-Ja
-Ja
-Papp
-Ja
-Ja
-Tre
-Ja, avhengig av tykkelse og tetthet
-Ja
-Skinn, lær
-Ja, men lukter sterkt
-Ja, men lukter ganske sterkt
-Organiske stoffer
-Ja
-ja
-Glass
-Nei
-Noen typer glass kan graveres
-Metall
-Nei
-Med hjelpemiddel
-Karbonfiber/glassfiber/
-kompositter
-Nei, bindemiddel avgir helseskadelig gass ved oppvarming.
-Nei
+| Material                             | Størrelse                                              | Pris                          |
+|--------------------------------------|--------------------------------------------------------|-------------------------------|
+| Papir                                | Ja                                                     | Ja                            |
+| Papp                                 | Ja                                                     | Ja                            |
+| Tre                                  | Ja, avhengig av tykkelse og tetthet                    | Ja                            |
+| Skinn, lær                           | Ja, men lukter!                                        | Ja, men lukter!               |
+| Organiske stoffer                    | Ja                                                     | Ja                            |
+| Glass                                | Nei                                                    | Noen typer glass kan graveres |
+| Metall                               | Nei                                                    | Med hjelpemiddel              |
+| Karbonfiber, glassfiber, kompositter | Nei, mindemiddel avgir helsefarlig gass ved oppvarming | Nei                           |
 
 ## IKKE ANBEFALTE MATERIALER
 Gjennomsiktige plastplater med rød folie fra Biltema - disse gir svært dårlige resultater i laserkutteren.
 Polycarbonat (PC) - kutt og gravering gir dårlige resultater med mye misfarging.
 Karbonfiber - bindemiddelet gjør karbonfiber uegnet for laserkutting.
 
-#Sikkerhet
+# Sikkerhet
 
-##BRANNSLUKKER (CO2) skal være plassert rett ved siden av laserkutteren.
+## BRANNSLUKKER (CO2) skal være plassert rett ved siden av laserkutteren.
 
-##NOEN TYPER PLAST AVGIR HELSESKADELIGE GASSER VED OPPVARMING. 
+## NOEN TYPER PLAST AVGIR HELSESKADELIGE GASSER VED OPPVARMING. 
 Eksempler:
 - PVC (vinyl) avgir klor-gass
 - ABS avgir cyanid-gass
@@ -151,10 +129,10 @@ Er du i tvil om et materiale egner seg for kutting eller gravering kan du spørr
 **VIKTIG: GÅ ALDRI FRA LASERKUTTER NÅR DEN ER I BRUK!!! 
 Laserkutterens Pause-knapp pauser den pågående jobben. 
 (Trykk F1-Resume for å fortsette.)
-Start/stop-knappen avbryter jobben slik at den må startes helt på nytt. 
+Start/stop-knappen avbryter jobben slik at den må startes helt på nytt.** 
 
 **VIKTIG: HUSK å koble fra og til USB-kabelen før første bruk!
-(Er du usikker på om du har husket å gjøre det kan du trygt gjøre det en gang til.) 
+(Er du usikker på om du har husket å gjøre det kan du trygt gjøre det en gang til.)**
 
 # PROBLEMER: Har Flexidesigner og/eller laserkutteren sluttet å fungerer som forventet?
 ## UNIVERSAL-LØSNING! 
@@ -167,7 +145,7 @@ Start/stop-knappen avbryter jobben slik at den må startes helt på nytt.
 
 **Om laserkutting eller gravering ikke gir forventede resultater skal du 
 sjekke og evt rense speilene i enden av broen og inne i linsekammeret
-sjekke linsen og evt rense denne
+sjekke linsen og evt rense denne**
 
 ## Bruk av ulike materialer
 KUTTING OG GRAVERING AV MDF OG FINERPLATER
@@ -195,36 +173,11 @@ Trykker Start.
 ## Forslag til verdier for kutting av ulike materialer og tykkelser.
 Verdiene er forslag og bør testes før bruk.
 
-
-Material
-Tykkelse
-Speed
-Power
-PPI
-MDF, finer
-3 mm
-3,4%
-100%
-150
-
-
-4 mm
-3,2%
-100%
-150
-Akryl (plexiglass)
-~2-4 mm
-3,0%
-20%
-250
-Bølgepapp
-~5 mm
-5,4%
-100%
-150
-Papir
-80gr
-100%
-70%
-150
+| Material           | Tykkelse | Speed | Power | PPI |
+|--------------------|----------|-------|-------|-----|
+| MDF, finer         | 3mm      | 3.4%  | 100%  | 150 |
+|                    | 4mm      | 3.2%  | 100%  | 150 |
+| Akryl (plexiglass) | ~2-4 mm  | 3.0%  | 20%   | 250 |
+| Bølgepapp          | ~5 mm    | 5.4%  | 100%  | 150 |
+| Papir              | 80gr     | 100%  | 70%   | 150 |
 
