@@ -84,55 +84,14 @@ HUSK å plugge USB-pluggen ut og inn igjen før du sender første modellen!
 
 Makerspacet har et lite utvalg materialer som er velegnet for laserkutting og gravering. (ca. mål, priser er inludert mva.)
 
-Bjørkefiner
-3 mm
-600x900mm
-75,-
-Bjørkefiner
-4 mm
-600x900mm
-95,-
-
-
-
-
-
-
-
-
-MDF-plate
-3 mm
-600x900mm
-60,-
-MDF-plate, sort
-3 mm
-600x900mm
-90,-
-
-
-
-
-
-
-
-
-Plexiglass, klar 
-2 mm
-600x900mm
-210,-
-Plexiglass, klar
-4 mm
-600x900mm
-265,-
-Plexiglass, klar
-6 mm
-600x900mm
-535,-
-Plexiglass, gul
-3 mm
-600x900mm
-375,-
-
+| Bjørkefiner 3mm       | 600x900       | 75,-    |
+| Bjørkefiner 4mm       | 600x900       | 95,-    |
+| MDF-plate, 3mm        | 600x900       | 60,-    |
+| MDF-plate, sort, 3mm  | 600x900       | 90,-    |
+| Plexiglass, klar, 2mm | 600x900       | 210,-   |
+| Plexiglass, klar, 4mm | 600x900       | 265,-   |
+| Plexiglass, klar, 6mm | 600x900       | 535,-   |
+| Plexiglass, gul, 3mm  | 600x900       | 375,-   |
 
 Betales via 
 VippsGo: 538363 Marinehomen Makerspace Drift -> Laserkutter
