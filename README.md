@@ -22,63 +22,65 @@ Eksempler: PVC avgir klorgass og ABS avgir cyanid-gass.
 SPØR betjeningen eller erfarne brukere FØR BRUK om du er usikker!
 
 
-Rengjøring og vedlikehold
+## Rengjøring og vedlikehold
 
 For å unngå unødvendig slitasje eller skade må all rens av speil og linser utføres nøyaktig som beskrevet i instruksen!
 Speilene skal bare renses med spesialpapir og rensevæske!
 
-Hvordan rense laserkutteren:
-Slå av maskinen
-Åpne linsekammeret ved å skru ut de to nederste skruene. Lokket vris oppover slike at linse og speil blir lett tilgjengelig. 
-Rens linsen som følger:
-Ta ut linseholderen. Bruk en fingernegl om det er litt vanskelig å få tak i den.
-Spray litt renseveske på selve linsen og rens linsen med q-tips. 
-Gjenta om nødvendig.
+## Hvordan rense laserkutteren:
+- Slå av maskinen
+- Åpne linsekammeret ved å skru ut de to nederste skruene. Lokket vris oppover slike at linse og speil blir lett tilgjengelig. 
+- Rens linsen som følger:
+- Ta ut linseholderen. Bruk en fingernegl om det er litt vanskelig å få tak i den.
+- Spray litt renseveske på selve linsen og rens linsen med q-tips. 
+- Gjenta om nødvendig.
+
 Det blir iblant noen små dråper med renseveske igjen på linsen etter rengjøring. Disse er normalt. Disse dråpene vil fordampe av seg selv etter en stund.
+
 Snu linseholderen slik at aluminiumsrammen peker oppover og den smale kanten vender mot høyre.
 Linseholderen kan bare monteres en vei. Om det er vanskelig å få linseholderen inn i riktig spor igjen er linseholderen feil vei. 
-Rens speil som følger:
-Skru skruen på  toppen av linsekammeret så lang som mulig uten at den løsner.
-Forsiktig: Ta ut speilet og legg dette på bordet i laseren.
-Bruk aldri annet enn spesialpapir for å rengjøre speilene.
-Spray på litt renseveske og tørk av speilet med en bit spesialpapir. Vær svært forsiktig for å unngå å lage riper i speilet!
-Monter speilet tilbake i kammeret med speilet pekende mot venstre og merkelappen på baksiden av speilet pekende oppover. Pass godt på at speilholderen er plassert på de to sporene i kammeret.
-Stram skruen på toppen av linsekammeret, men aldri strammere enn at den lett kan løsnes med fingrene!!!
+
+**Rens speil som følger:
+- Skru skruen på  toppen av linsekammeret så lang som mulig uten at den løsner.
+- Forsiktig: Ta ut speilet og legg dette på bordet i laseren.
+- Bruk aldri annet enn spesialpapir for å rengjøre speilene.
+- Spray på litt renseveske og tørk av speilet med en bit spesialpapir. Vær svært forsiktig for å unngå å lage riper i speilet!
+- Monter speilet tilbake i kammeret med speilet pekende mot venstre og merkelappen på baksiden av speilet pekende oppover. Pass godt på at speilholderen er plassert på de to sporene i kammeret.
+- Stram skruen på toppen av linsekammeret, men aldri strammere enn at den lett kan løsnes med fingrene!!!
 
-Oppstart
+## Oppstart
 
-Slå på PCen.
+- Slå på PCen.
 Av-på-knappen er på siden av den bærbare datamaskinen. 
-Hold knappen inne noen sekunder for å slå på maskinen.
-Bruk passord “makemyday” for å logge inn.
-Programvaren vi bruker med laserkutteren heter Flexidesigner.
+- Hold knappen inne noen sekunder for å slå på maskinen.
+- Bruk passord “makemyday” for å logge inn.
+- Programvaren vi bruker med laserkutteren heter Flexidesigner.
 
 
-FØR du slår på laserkutteren.
-Vask speil og linse
-Kontrollerer at bro og laserhodet kan bevege seg fritt og uhindret. Ta evt. vekk honeycomb og annet som måtte ligge i veien.
+## FØR du slår på laserkutteren.
+- Vask speil og linse
+- Kontrollerer at bro og laserhodet kan bevege seg fritt og uhindret. Ta evt. vekk honeycomb og annet som måtte ligge i veien.
 
-Slå på laserkutteren. 
+## Slå på laserkutteren. 
 VENT til bro og laserhode har beveget seg til sine endepunkter og returnert til startposisjon i øverste venstre hjørne på laserbordet.
 
-VIKTIG: USB-kabelen MÅ taes ut og plugges inn igjen i PCen FØR første jobb sendes til laserkutteren!!!
+**VIKTIG: USB-kabelen MÅ taes ut og plugges inn igjen i PCen FØR første jobb sendes til laserkutteren!!!
 (USB-kabel og USB-inngang på PCen er begge merket med oransje) 
 
-Hvordan bruk autofocus for best resultat.
-Fokuseringsenheten ligger på en liten hylle innvendig i laserkutterens øverste høyre hjørne. Denne monteres på høyre side av laserhodet.
-VIKTIG: Pass på at stiften på fokuseringsenheten treffer på materialet og ikke i hull eller åpninger eller på siden av materialet. 
-Trykk på Autofocus på betjeningspanelet.
-Maskinen fokuserer laseren på materialets overflate ved å justerer høyden på arbeidsbordet.
-Husk: Trykk F1 (Back) når autofocus er utført.
+## Hvordan bruk autofocus for best resultat.
+- Fokuseringsenheten ligger på en liten hylle innvendig i laserkutterens øverste høyre hjørne. Denne monteres på høyre side av laserhodet.
+**VIKTIG: Pass på at stiften på fokuseringsenheten treffer på materialet og ikke i hull eller åpninger eller på siden av materialet. 
+- Trykk på Autofocus på betjeningspanelet.
+- Maskinen fokuserer laseren på materialets overflate ved å justerer høyden på arbeidsbordet.
+**Husk: Trykk F1 (Back) når autofocus er utført.
 
-VIKTIG: HUSK å legg fokuseringsstiften tilbake på riktig plass øverst til venstre i maskinen!
+** VIKTIG: HUSK å legg fokuseringsstiften tilbake på riktig plass øverst til venstre i maskinen!
 
 Hvis FlexiDesigner stopper under overføring av kuttefil sjekk printerkø og slette  utskrift der, evt slå av PC og laserkutte, vent noen sekunder og slå begge maskiner på igjen. Vent til laserkutteren er ferdig meg oppstart.
 HUSK å plugge USB-pluggen ut og inn igjen før du sender første modellen!
 
 
-
-Anbefalte materialer
+## Anbefalte materialer
 
 Makerspacet har et lite utvalg materialer som er velegnet for laserkutting og gravering. (ca. mål, priser er inludert mva.)
 
@@ -135,7 +137,7 @@ Plexiglass, gul
 Betales via 
 VippsGo: 538363 Marinehomen Makerspace Drift -> Laserkutter
 
-Andre aktuelle materialer.
+## Andre aktuelle materialer.
 Material
 Kan kuttes
 Kan graveres
@@ -165,47 +167,44 @@ kompositter
 Nei, bindemiddel avgir helseskadelig gass ved oppvarming.
 Nei
 
-IKKE ANBEFALTE MATERIALER
+## IKKE ANBEFALTE MATERIALER
 Gjennomsiktige plastplater med rød folie fra Biltema - disse gir svært dårlige resultater i laserkutteren.
 Polycarbonat (PC) - kutt og gravering gir dårlige resultater med mye misfarging.
 Karbonfiber - bindemiddelet gjør karbonfiber uegnet for laserkutting.
 
-
-Sikkerhet
+#Sikkerhet
 
-BRANNSLUKKER (CO2) skal være plassert rett ved siden av laserkutteren.
+##BRANNSLUKKER (CO2) skal være plassert rett ved siden av laserkutteren.
 
-NOEN TYPER PLAST AVGIR HELSESKADELIGE GASSER VED OPPVARMING. 
+##NOEN TYPER PLAST AVGIR HELSESKADELIGE GASSER VED OPPVARMING. 
 Eksempler:
-PVC (vinyl) avgir klor-gass
-ABS avgir cyanid-gass
+- PVC (vinyl) avgir klor-gass
+- ABS avgir cyanid-gass
+
 Er du i tvil om et materiale egner seg for kutting eller gravering kan du spørre betjeningen eller erfarne brukere, eller evt. google det før du bruker det!!!
 
-VIKTIG: GÅ ALDRI FRA LASERKUTTER NÅR DEN ER I BRUK!!! 
+**VIKTIG: GÅ ALDRI FRA LASERKUTTER NÅR DEN ER I BRUK!!! 
 Laserkutterens Pause-knapp pauser den pågående jobben. 
 (Trykk F1-Resume for å fortsette.)
 Start/stop-knappen avbryter jobben slik at den må startes helt på nytt. 
 
-VIKTIG: HUSK å koble fra og til USB-kabelen før første bruk!
+**VIKTIG: HUSK å koble fra og til USB-kabelen før første bruk!
 (Er du usikker på om du har husket å gjøre det kan du trygt gjøre det en gang til.) 
 
-
-PROBLEMER?
-Har Flexidesigner og/eller laserkutteren sluttet å fungerer som forventet?
-UNIVERSAL-LØSNING! 
-Slå av BÅDE PC og laserkutter
-Vent noen sekunder
-Slå på PC og laserkutter
-Vent til begge maskiner er ferdig med oppstartprosedyrer
-Ta ut USB-kabelen (merket med oransje) og plug den inn igjen i USB-porten (også merket med oransje)
-Begge maskiner skal nå være klar til bruk.
+# PROBLEMER: Har Flexidesigner og/eller laserkutteren sluttet å fungerer som forventet?
+## UNIVERSAL-LØSNING! 
+- Slå av BÅDE PC og laserkutter
+- Vent noen sekunder
+- Slå på PC og laserkutter
+- Vent til begge maskiner er ferdig med oppstarten
+- Ta ut USB-kabelen (merket med oransje) og plug den inn igjen i USB-porten (også merket med oransje)
+- Begge maskiner skal nå være klar til bruk.
 
-Om laserkutting eller gravering ikke gir forventede resultater skal du 
+**Om laserkutting eller gravering ikke gir forventede resultater skal du 
 sjekke og evt rense speilene i enden av broen og inne i linsekammeret
 sjekke linsen og evt rense denne
 
-
-Bruk av ulike materialer
+## Bruk av ulike materialer
 KUTTING OG GRAVERING AV MDF OG FINERPLATER
 Ved kutting: Bruk honeycombmatte under materiale for å unngå at materialet blir brent på baksiden.
 honeycombmatten og aluminiumsbordet sørger for at laserlyset  som blir reflektert fra aluminiumsbordet blir spredd slik at materialet ikke blir brent på undersiden..
@@ -228,8 +227,7 @@ Laserkutteren er nå klar til å gravere og kutte modellen din
 Trykker Start.
 Ønsker du flere kopier plasser du laserhodet på egnet sted før du trykker Start på laserkutteren.
 
-
-Forslag til verdier for kutting av ulike materialer og tykkelser.
+## Forslag til verdier for kutting av ulike materialer og tykkelser.
 Verdiene er forslag og bør testes før bruk.
 
 
