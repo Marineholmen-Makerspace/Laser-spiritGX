@@ -94,6 +94,11 @@ Makerspacet har et lite utvalg materialer som er velegnet for laserkutting og gr
 | Plexiglass, klar, 6mm | 600x900       | 535,-   |
 | Plexiglass, gul, 3mm  | 600x900       | 375,-   |
 
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
+
 Betales via 
 VippsGo: 538363 Marinehomen Makerspace Drift -> Laserkutter
 
