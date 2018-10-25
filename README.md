@@ -84,6 +84,7 @@ HUSK å plugge USB-pluggen ut og inn igjen før du sender første modellen!
 
 Makerspacet har et lite utvalg materialer som er velegnet for laserkutting og gravering. (ca. mål, priser er inludert mva.)
 
+| --------------------- |:-------------:| -------:|
 | Bjørkefiner 3mm       | 600x900       | 75,-    |
 | Bjørkefiner 4mm       | 600x900       | 95,-    |
 | MDF-plate, 3mm        | 600x900       | 60,-    |
