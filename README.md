@@ -1,8 +1,8 @@
 # Laser-spiritGX
-Bruk og sikkerhet
+
+## Bruk og sikkerhet
+
 LaserPro Spirit GX laserkutter
-
-
 
 VIKTIG: 
 GÅ ALDRI FRA LASERKUTTER UNDER BRUK!!! 
