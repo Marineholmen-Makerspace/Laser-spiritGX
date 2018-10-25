@@ -4,9 +4,9 @@
 
 LaserPro Spirit GX laserkutter
 
-VIKTIG: 
+**VIKTIG: 
 GÅ ALDRI FRA LASERKUTTER UNDER BRUK!!! 
-(Bruk PAUSE dersom du MÅ gå fra maskinen.)
+(Bruk PAUSE dersom du MÅ gå fra maskinen.)**
 
 Rengjør maskinen (bordet, speilene og linsen) før du tar den i bruk og så snart du er ferdig.
 
